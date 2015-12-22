@@ -20,7 +20,7 @@ rvm use 2.1.5
 
 - If you are running Ubuntu (or also verified on Kali) you will need a couple of dependencies:
 ```
-apt-get install libsqlite3-dev libxslt-dev libxml2-dev zlib1g-dev gcc
+apt-get install libsqlite3-dev libxslt-dev libxml2-dev zlib1g-dev gcc ruby-sqlite3
 ```
 
 - Go into Serpico and install the proper gems:
